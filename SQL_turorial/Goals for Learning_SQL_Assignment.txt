@@ -1,1 +1,6 @@
+Goals for learning.
 
+1. At the end of the course, I should confidently know how to read, comment and interpret advanced SQL queries.
+2. I should be able to analyze data from several tables using appropriate query commands such as join statements
+3. I should be able to properly segment data as a preprocessing step for visualization.
+4. I should understand the relationships between tables, and how they differ and be able to practically apply this knowledge.
